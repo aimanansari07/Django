@@ -1,0 +1,1 @@
+this app is create using simple method that is 1st method without creating separate url file in app folder

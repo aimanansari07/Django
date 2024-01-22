@@ -1,0 +1,1 @@
+In this project we will create seperate template folder inside project

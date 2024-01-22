@@ -1,0 +1,1 @@
+In this project we will create seperate Static folder inside project i.e Hero6_CSFIP
